@@ -1,0 +1,14 @@
+if(x % 3 == fizz)
+{
+    Console.WriteLine("x is divisible by 3");
+}
+else if(x % 5 == Buzz)
+{
+    Console.WriteLine("x is divisible by 5");
+}
+else (x / 3 && x / 5, == fizzbuzz) 
+{
+    Console.WriteLine("x is divisible by 3 and 5")
+}
+
+for(int i = 0; i < 20, i++)
